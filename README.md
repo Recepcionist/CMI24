@@ -9,16 +9,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : The Recepcionist
 
 **Web:**   https://    (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Alba Moreno Lozano
 
 **Resumen** : lorem ipsun dolor.... 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
-
+**Estilo/género:**  Videojuego Terror Psicologico
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
