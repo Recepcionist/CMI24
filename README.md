@@ -23,6 +23,7 @@ Este escape se conseguira si superas diferentes pruebas donde el tiempo es cruci
 **Estilo/género:**  Videojuego Terror Psicologico
 
 **Logotipo** : 
+![logo](https://github.com/recepcionist/CMI24/blob/main/logoj.png).
 
 (insertar imágenes a resolucion de 100px alto)
 
