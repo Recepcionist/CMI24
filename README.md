@@ -11,7 +11,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : The Recepcionist
 
-**Web:**   https://    (url github.io)
+**Web:**   https://recepcionist.github.io
+
+**Proyecto:** https://recepcionist.github.io/practica2
 
 **Autor:**  Alba Moreno Lozano
 
