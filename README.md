@@ -13,14 +13,16 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**   https://recepcionist.github.io
 
-**Proyecto:** https://recepcionist.github.io/practica2
+**Proyecto:** https://recepcionist.github.io/PRACTICA2
 
 **Autor:**  Alba Moreno Lozano
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : The Recepcionist es un videojuego de terror inspirado en la estetica del juego Lets Find Larry!  y en el lore del juego At Dead of Night. Tendras que escapar del hotel donde te ibas a alojar porque el recepcionista es un asesino. 
+Este escape se conseguira si superas diferentes pruebas donde el tiempo es crucial.
 
 **Estilo/género:**  Videojuego Terror Psicologico
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+
+**Logotipo** : 
 
 (insertar imágenes a resolucion de 100px alto)
 
