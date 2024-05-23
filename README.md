@@ -26,11 +26,10 @@ Este escape se conseguira si superas diferentes pruebas donde el tiempo es cruci
 
 ![logo](https://github.com/recepcionist/CMI24/blob/main/logoj.png).
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  MS Edge
 
 **Tamaño proyecto:** XXMB 
 
@@ -44,8 +43,6 @@ Este escape se conseguira si superas diferentes pruebas donde el tiempo es cruci
 - Twitter
 - Instagram
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
